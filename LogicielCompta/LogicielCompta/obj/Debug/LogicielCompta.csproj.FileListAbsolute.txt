@@ -1,0 +1,16 @@
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\LogicielCompta.csprojResolveAssemblyReference.cache
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\LogicielCompta.Properties.Resources.resources
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\LogicielCompta.csproj.GenerateResource.Cache
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\LogicielCompta.exe.config
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\LogicielCompta.exe
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\LogicielCompta.pdb
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\EntityFramework.dll
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\EntityFramework.SqlServer.dll
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\MySql.Data.dll
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\EntityFramework.xml
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\EntityFramework.SqlServer.xml
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\bin\Debug\fr\EntityFramework.resources.dll
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\LogicielCompta.exe
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\LogicielCompta.pdb
+E:\BTS\SIO2\PPE\LogicielGestion\LogicielCompta\LogicielCompta\obj\Debug\logicielCompta.Form1.resources
