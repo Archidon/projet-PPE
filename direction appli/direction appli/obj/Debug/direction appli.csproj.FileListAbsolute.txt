@@ -1,0 +1,39 @@
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction_appli.Properties.Resources.resources
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csproj.GenerateResource.Cache
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csproj.CoreCompileInputs.cache
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csprojResolveAssemblyReference.cache
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\direction appli.exe.config
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\direction appli.exe
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\direction appli.pdb
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\EntityFramework.dll
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\EntityFramework.SqlServer.dll
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\MySql.Data.dll
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\EntityFramework.xml
+E:\Sio2\ppe\direction appli\direction appli\bin\Debug\EntityFramework.SqlServer.xml
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.exe
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.pdb
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csprojResolveAssemblyReference.cache
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction_appli.direction.resources
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction_appli.Properties.Resources.resources
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csproj.GenerateResource.Cache
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.csproj.CoreCompileInputs.cache
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.exe
+F:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction appli.pdb
+E:\Sio2\ppe\direction appli\direction appli\obj\Debug\direction_appli.direction.resources
+E:\Sio2\direction appli\direction appli\bin\Debug\direction appli.exe.config
+E:\Sio2\direction appli\direction appli\bin\Debug\direction appli.exe
+E:\Sio2\direction appli\direction appli\bin\Debug\direction appli.pdb
+E:\Sio2\direction appli\direction appli\bin\Debug\EntityFramework.dll
+E:\Sio2\direction appli\direction appli\bin\Debug\EntityFramework.SqlServer.dll
+E:\Sio2\direction appli\direction appli\bin\Debug\MySql.Data.dll
+E:\Sio2\direction appli\direction appli\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Sio2\direction appli\direction appli\bin\Debug\EntityFramework.xml
+E:\Sio2\direction appli\direction appli\bin\Debug\EntityFramework.SqlServer.xml
+E:\Sio2\direction appli\direction appli\obj\Debug\direction appli.csprojResolveAssemblyReference.cache
+E:\Sio2\direction appli\direction appli\obj\Debug\direction_appli.direction.resources
+E:\Sio2\direction appli\direction appli\obj\Debug\direction_appli.Properties.Resources.resources
+E:\Sio2\direction appli\direction appli\obj\Debug\direction appli.csproj.GenerateResource.Cache
+E:\Sio2\direction appli\direction appli\obj\Debug\direction appli.csproj.CoreCompileInputs.cache
+E:\Sio2\direction appli\direction appli\obj\Debug\direction appli.exe
+E:\Sio2\direction appli\direction appli\obj\Debug\direction appli.pdb
